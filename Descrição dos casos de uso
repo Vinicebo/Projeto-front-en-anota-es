@@ -1,0 +1,32 @@
+Descrição dos casos de usos
+
+Cadastrar o adm
+ver os portifólio
+ver o detalhamento dos portifólios 
+usar um filtro par buscar os projetos
+incluir informações em um portifólio
+
+atores dos csos de uso
+
+Alumos, professores, empressas
+
+
+pré condições
+EXEMPLOS
+estar logado no sistema
+Acessar um endereço
+Pós codição
+
+
+Perguntas
+Editar o projeto é um caso de uso
+Buscar os projetos
+Filtrar um prjeto
+-atores: Usuário
+-pré condição: estar na pagina de projetos
+-fluxo principal:clicar no link de detalhamento
+-pós -condição; entrar na pagina de detalhamento
+Exibir detalhes de um projeto
+Fazer log in 
+
+Encontrar um projeto
