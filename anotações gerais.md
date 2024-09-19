@@ -8,3 +8,5 @@
 - período que o projeto existiu
 - opção para adicionar mais informações
 
+### Como o Adm faá para deslogar
+- ter um botão/link na página princioal para deslogar da conta de adm
